@@ -1,0 +1,41 @@
+.hero {
+    display: flex;
+    height: auto;
+    width: 100vw;
+    margin: 0;
+    padding: 15px;
+    min-height: calc(480px - 30px);
+    align-items: center;
+    justify-content: center;
+    background-color: #1D75DE;
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
+
+.hero .title {
+    font-size: 39px;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.description {
+    font-size: 24px;
+    margin: 0;
+}
+.button {
+    padding: 48px;
+}
+.secondary {
+    margin-right: 8px;
+}
+
+
+.terms {
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+}
+
+.terms a {
+    text-decoration: underline;
+    color: white;
+}

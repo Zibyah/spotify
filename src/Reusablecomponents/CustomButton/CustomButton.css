@@ -1,0 +1,41 @@
+.btn {
+    background-color: #1877F2;
+    color: white;
+    height: 48px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 500px;
+    cursor: pointer;
+    gap: 16px;
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+  }
+  
+  .btn-outline {
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    height: 48px;
+    border: 1px solid #878787;
+    border-radius: 500px;
+    cursor: pointer;
+    gap: 16px;
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+  }
+  
+  .btn-secondary {
+    font-family: "Inter", sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    height: 48px;
+    border-radius: 500px;
+    cursor: pointer;
+    gap: 16px;
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+  }
+  
+  
